@@ -1,0 +1,136 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Aprenda como ganhar dinheiro sendo afiliado da Temu e descubra dicas e estratégias para ter sucesso nesse mercado lucrativo.">
+    <title>Ganhe Dinheiro como Afiliado da Temu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #ff6f61;
+            color: #fff;
+            padding: 20px 10%;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 10px 0 0;
+            font-size: 1.2em;
+        }
+        nav {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #fff;
+            border-bottom: 1px solid #ddd;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #ff6f61;
+        }
+        main {
+            padding: 20px 10%;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        section h2 {
+            color: #ff6f61;
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        section p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 10%;
+        }
+        footer p {
+            margin: 0;
+            font-size: 0.9em;
+        }
+        .cta {
+            text-align: center;
+            margin: 30px 0;
+        }
+        .cta a {
+            background-color: #ff6f61;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            border-radius: 5px;
+        }
+        .cta a:hover {
+            background-color: #e55a4d;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ganhe Dinheiro com a Temu</h1>
+        <p>Aprenda a lucrar sendo afiliado da Temu e transforme suas estratégias em sucesso!</p>
+    </header>
+    <nav>
+        <a href="#como-funciona">Como Funciona</a>
+        <a href="#vantagens">Vantagens</a>
+        <a href="#dicas">Dicas</a>
+        <a href="#inscreva-se">Inscreva-se</a>
+    </nav>
+    <main>
+        <section id="como-funciona">
+            <h2>Como Funciona</h2>
+            <p>A Temu oferece um programa de afiliados onde você pode ganhar comissões promovendo produtos da plataforma. Ao se cadastrar, você recebe um link exclusivo para compartilhar com sua audiência. Cada vez que alguém faz uma compra usando seu link, você ganha uma porcentagem da venda.</p>
+        </section>
+        <section id="vantagens">
+            <h2>Vantagens de Ser Afiliado</h2>
+            <ul>
+                <li>Comissões atrativas em diversos produtos.</li>
+                <li>Fácil de se inscrever e começar.</li>
+                <li>Acesso a ferramentas de marketing gratuitas.</li>
+                <li>Trabalhe de qualquer lugar e no seu próprio ritmo.</li>
+            </ul>
+        </section>
+        <section id="dicas">
+            <h2>Dicas para Ter Sucesso</h2>
+            <p>Para maximizar seus ganhos como afiliado, siga estas estratégias:</p>
+            <ul>
+                <li>Escolha produtos que tenham alta demanda e sejam relevantes para seu público.</li>
+                <li>Crie conteúdo de qualidade, como reviews, tutoriais ou posts em redes sociais.</li>
+                <li>Use as redes sociais para alcançar um público maior.</li>
+                <li>Monitore seu desempenho e ajuste suas estratégias conforme necessário.</li>
+            </ul>
+        </section>
+        <section id="inscreva-se">
+            <h2>Inscreva-se Agora</h2>
+            <p>Pronto para começar sua jornada como afiliado? Clique no botão abaixo para se inscrever e aproveitar essa oportunidade incrível!</p>
+            <div class="cta">
+                <a href="https://www.temu.com" target="_blank">Inscreva-se na Temu</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Ganhe Dinheiro com a Temu. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+   
